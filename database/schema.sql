@@ -1,5 +1,4 @@
 -- Faculty Management System schema (MySQL)
--- DB: faculty_management_system
 
 CREATE DATABASE IF NOT EXISTS FMS;
 USE FMS;
