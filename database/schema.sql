@@ -1,7 +1,8 @@
 -- Faculty Management System schema (MySQL)
+-- DB: faculty_management_system
 
-CREATE DATABASE IF NOT EXISTS FMS;
-USE FMS;
+CREATE DATABASE IF NOT EXISTS faculty_management_system;
+USE faculty_management_system;
 
 SET FOREIGN_KEY_CHECKS = 0;
 

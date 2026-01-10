@@ -1,4 +1,4 @@
-USE FMS;
+USE faculty_management_system;
 
 -- DEPARTMENTS
 INSERT INTO departments(name) VALUES
