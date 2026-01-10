@@ -56,7 +56,7 @@ public class LoginView extends JFrame {
         badge.setShadow(false);
         badge.setBackground(new Color(255,255,255, 35));
         badge.setLayout(new BorderLayout(10, 0));
-        JLabel badgeTxt = new JLabel("JDBC + MySQL Ready");
+        JLabel badgeTxt = new JLabel("Faculty of Computing & Technology - UOK");
         badgeTxt.setForeground(Color.WHITE);
         badgeTxt.setFont(new Font("Segoe UI", Font.BOLD, 13));
         badge.add(new JLabel("\u26A1"), BorderLayout.WEST);
